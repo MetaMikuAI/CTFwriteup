@@ -22,7 +22,7 @@ MetaMiku moywdr yyc
 
 43名
 
-![xyctf.top_games_2_scoreboard](./assets/xyctf.top_games_2_scoreboard.png.jpg)
+![xyctf.top_games_2_scoreboard](./XYCTF-wp-0x5f3759df.assets/xyctf.top_games_2_scoreboard.png.jpg)
 
 ![xyctf.top_games_2_challenges](./XYCTF-wp-0x5f3759df.assets/xyctf.top_games_2_challenges.png.jpg)
 
